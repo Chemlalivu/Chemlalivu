@@ -1,10 +1,32 @@
-- 👋 Hi, I’m @Chemlalivu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# h1 Heading
+## h2 Heading
+### h3 Heading
+#### h4 Heading
+##### h5 Heading
+###### h6 Heading
 
-<!---
-Chemlalivu/Chemlalivu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## Horizontal Rules
+
+---
+
+
+## Emphasis
+
+**This is bold text**
+
+__This is bold text__
+
+*This is italic text*
+
+_This italic text_
+
+~~Strikethrough~~
+
+
+## Blockquotes
+
+
+> Blockquotes can also be nested...
+> >...by using additional greater-than signs right next to each other...
+> >>
